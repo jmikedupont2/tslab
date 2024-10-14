@@ -13,7 +13,7 @@ import * as tslab from "tslab";
 tslab.display.html("Hello <b>tslab!</b>");
 ```
 
-## Global vs Local installtaion
+## Global vs Local installation
 
 We [recommend to install tslab globally](https://github.com/yunabe/tslab/blob/master/README.md#installing-tslab) by `npm install -g tslab` because you need to register `tslab` command to Jupyter in your environment.
 
